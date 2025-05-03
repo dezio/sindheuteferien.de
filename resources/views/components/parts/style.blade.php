@@ -196,4 +196,12 @@
         margin: 2rem 0;
     }
 
+    footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem;
+        gap: 1rem;
+    }
 </style>
