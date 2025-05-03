@@ -1,130 +1,14 @@
-@php use App\Http\Controllers\SchoolHolidayController; @endphp
-    <!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="description"
-          content="Sind heute Ferien? Finde heraus, in welchen deutschen Bundesländern heute Schulferien sind. Einfach, aktuell und übersichtlich."/>
-    <meta name="keywords"
-          content="Ferien heute, Schulferien, Bundesländer, Deutschland, Ferienkalender, Ferienübersicht"/>
-    <meta name="author" content="SindHeuteFerien.de"/>
-    <title>Impressum</title>
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 0;
-            background: #f9f9f9;
-            color: #111;
-        }
-
-        header {
-            background-color: #1e40af;
-            color: white;
-            padding: 2rem 1rem;
-            text-align: center;
-        }
-
-        header h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-        }
-
-        header p {
-            font-size: 1.25rem;
-        }
-
-        main {
-            max-width: 900px;
-            margin: 2rem auto;
-            padding: 0 1rem;
-        }
-
-        .info {
-            text-align: center;
-            margin-bottom: 2rem;
-        }
-
-        .info p {
-            font-size: 1.1rem;
-            color: #333;
-        }
-
-        .state-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1rem;
-        }
-
-        .state {
-            background: white;
-            border-radius: 12px;
-            padding: 1rem;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-        }
-
-        .state h3 {
-            margin: 0.5rem 0;
-        }
-
-        .holiday-yes {
-            color: #16a34a;
-            font-weight: bold;
-        }
-
-        .holiday-no {
-            color: #dc2626;
-            font-weight: bold;
-        }
-
-        footer {
-            text-align: center;
-            padding: 2rem 1rem;
-            color: #666;
-            font-size: 0.9rem;
-        }
-
-        @media (max-width: 600px) {
-            header h1 {
-                font-size: 2rem;
-            }
-
-            .info p {
-                font-size: 1rem;
-            }
-        }
-
-        .state a {
-            color: #1a202c;
-            text-decoration: none;
-            transition: color 0.2s;
-        }
-
-        .state a:hover {
-            color: #1e40af;
-            text-decoration: underline;
-        }
-
-        .state:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-            transition: all 0.3s ease;
-        }
-    </style>
-</head>
-<body>
-<main>
-
+<x-layout.primary>
+    <x-slot:header>
+        <h1>Impressum</h1>
+        <p>Hier findest du die rechtlichen Informationen zu SindHeuteFerien.de</p>
+    </x-slot:header>
     <section class="strong-services-wrapper section-padding fw500" id="impressum">
         <div class="container">
             <h1>Impressum</h1>
-            <h2>Informationen nach § 5 TMG</h2>
+            <h2>
+                Gesetzliche Anbieterkennung
+            </h2>
             <p>Tiziano Santo Metzler<br/> Bautzener Allee 59<br/> 02977 Hoyerswerda <br>Deutschland</p>
             <h2>Contact</h2>
             <p>Telefon: +49 1590 1084284<br/>
@@ -161,15 +45,4 @@
             </p>
         </div>
     </section>
-
-</main>
-<footer>
-    &copy; 2025 SindHeuteFerien.de – Alle Angaben ohne Gewähr. Datenquelle: <a href="https://www.schulferien.org"
-                                                                               target="_blank"
-                                                                               rel="noopener noreferrer">schulferien.org</a>
-
-    <a href="{{ route('impressum') }}">Impressum</a>
-
-</footer>
-</body>
-</html>
+</x-layout.primary>
