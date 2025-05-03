@@ -25,11 +25,23 @@
 </head>
 <body>
 @if(isset($header))
-<header>
-    {!! $header !!}
-</header>
+    <header>
+        @if(!Request::is("/"))
+            <div class="top-bar">
+                <a href="{{ route('home') }}" class="hidden-md-block">
+                    Übersicht aller Bundesländer
+                </a>
+                <a href="{{ route('home') }}" class="block-md-none">
+                    Übersicht
+                </a>
+            </div>
+        @endif
+        <div class="header-container">
+            {!! $header !!}
+        </div>
+    </header>
 @endif
 {!! $slot !!}
-<x-parts.footer />
+<x-parts.footer/>
 </body>
 </html>
