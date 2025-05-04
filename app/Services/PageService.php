@@ -32,9 +32,10 @@ class PageService
         return !empty($this->title);
     }
 
-    public function setTitle(string $title): void
+    public function setTitle(string $title): self
     {
         $this->title = $title;
+        return $this;
     }
 
     public function getDescription(): string
@@ -42,9 +43,10 @@ class PageService
         return $this->description;
     }
 
-    public function setDescription(string $description): void
+    public function setDescription(string $description): self
     {
         $this->description = $description;
+        return $this;
     }
 
     public function getAuthor(): string
@@ -52,9 +54,10 @@ class PageService
         return $this->author;
     }
 
-    public function setAuthor(string $author): void
+    public function setAuthor(string $author): self
     {
         $this->author = $author;
+        return $this;
     }
 
     public function getKeywords(): string
@@ -62,9 +65,10 @@ class PageService
         return $this->keywords;
     }
 
-    public function setKeywords(string $keywords): void
+    public function setKeywords(string $keywords): self
     {
         $this->keywords = $keywords;
+        return $this;
     }
 
     public function getAppName(): string
@@ -72,9 +76,10 @@ class PageService
         return $this->appName;
     }
 
-    public function setAppName(string $appName): void
+    public function setAppName(string $appName): self
     {
         $this->appName = $appName;
+        return $this;
     }
 
     public function toArray(): array

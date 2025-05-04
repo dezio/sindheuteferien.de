@@ -14,6 +14,10 @@ class ImpressumController
     public function __invoke()
     {
         Page::setTitle("Impressum");
+        Page::setDescription(sprintf(
+            "Impressum und Anbieterkennung von %s",
+            config('app.name')
+        ));
         return view('impressum');
     }
 }

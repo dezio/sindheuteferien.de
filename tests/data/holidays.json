@@ -1,0 +1,2242 @@
+[
+    {
+        "id": 1,
+        "uuid": "ade0ef11-b174-4694-81a7-f4070e5c0803",
+        "start_date": "2024-12-19T00:00:00.000000Z",
+        "end_date": "2025-01-07T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SH",
+                "shortName": "SH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 2,
+        "uuid": "c7ac38c5-318e-4eda-b793-86c77f4e4150",
+        "start_date": "2024-12-20T00:00:00.000000Z",
+        "end_date": "2025-01-03T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 3,
+        "uuid": "04102750-f2a2-4115-a514-05cd87f9d449",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-03T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SL",
+                "shortName": "SL"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 4,
+        "uuid": "191f84ee-99ba-4311-be98-494334469d1e",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-08T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-RP",
+                "shortName": "RP"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 5,
+        "uuid": "29bd10aa-e6b8-4760-a44e-6a88ab783f03",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-06T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NW",
+                "shortName": "NW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 6,
+        "uuid": "3fa153b7-696a-479d-a2d7-ce582733b5b5",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-04T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 7,
+        "uuid": "738023d8-9af3-445a-853f-94fa279b128d",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-06T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 8,
+        "uuid": "890f7f2b-484b-476e-ba23-95465ea9aed8",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-03T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-TH",
+                "shortName": "TH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 9,
+        "uuid": "979bb3ff-6c1a-4393-8e9b-7448332374f6",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-04T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 10,
+        "uuid": "a3e4c4aa-82f5-4ad5-9b5a-9751ba361583",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-03T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SN",
+                "shortName": "SN"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 11,
+        "uuid": "bd24179b-9f65-43dc-9904-b6159c7c62c4",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-10T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HE",
+                "shortName": "HE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 12,
+        "uuid": "bda62161-7ff6-4c23-b763-4a2b759bdef6",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-04T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 13,
+        "uuid": "e6b339dc-3757-43f0-882f-be7de435a835",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-04T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BW",
+                "shortName": "BW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 14,
+        "uuid": "ee0ec0ad-882b-47a5-83a7-f9286504eea8",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-04T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-ST",
+                "shortName": "ST"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 15,
+        "uuid": "f3b90493-d141-4aab-ac30-37084db988c3",
+        "start_date": "2024-12-23T00:00:00.000000Z",
+        "end_date": "2025-01-03T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 16,
+        "uuid": "075d5aed-4503-4443-b299-dc3b63a0d95f",
+        "start_date": "2025-01-27T00:00:00.000000Z",
+        "end_date": "2025-01-31T00:00:00.000000Z",
+        "name": "Winterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-ST",
+                "shortName": "ST"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 17,
+        "uuid": "adde677a-fd87-4595-b2b9-c4ea84976adf",
+        "start_date": "2025-01-31T00:00:00.000000Z",
+        "end_date": "2025-01-31T00:00:00.000000Z",
+        "name": "Halbjahrespause",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 18,
+        "uuid": "271d692c-2d55-4e79-a071-55bcee3687b1",
+        "start_date": "2025-02-03T00:00:00.000000Z",
+        "end_date": "2025-02-14T00:00:00.000000Z",
+        "name": "Winterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 19,
+        "uuid": "43fd5a66-c498-4c57-9201-8f0ee6242442",
+        "start_date": "2025-02-03T00:00:00.000000Z",
+        "end_date": "2025-02-04T00:00:00.000000Z",
+        "name": "Halbjahresferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 20,
+        "uuid": "48f3266a-a478-4903-8b7e-dd5bc86e9ca5",
+        "start_date": "2025-02-03T00:00:00.000000Z",
+        "end_date": "2025-02-08T00:00:00.000000Z",
+        "name": "Winterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-TH",
+                "shortName": "TH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 21,
+        "uuid": "8e1ad167-39e8-455e-a0cf-43fee3b79a39",
+        "start_date": "2025-02-03T00:00:00.000000Z",
+        "end_date": "2025-02-08T00:00:00.000000Z",
+        "name": "Winterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 22,
+        "uuid": "d442929a-d817-4a0c-bb9b-3766a0b0b271",
+        "start_date": "2025-02-03T00:00:00.000000Z",
+        "end_date": "2025-02-08T00:00:00.000000Z",
+        "name": "Winterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 23,
+        "uuid": "ed52220e-f6ae-4455-9710-70eb34583eea",
+        "start_date": "2025-02-03T00:00:00.000000Z",
+        "end_date": "2025-02-08T00:00:00.000000Z",
+        "name": "Winterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 24,
+        "uuid": "ffe7e5cd-9930-4a99-a2a5-8eab0b2bfd68",
+        "start_date": "2025-02-03T00:00:00.000000Z",
+        "end_date": "2025-02-04T00:00:00.000000Z",
+        "name": "Halbjahresferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 25,
+        "uuid": "39a21b2f-906b-4b72-947e-1b90756d6831",
+        "start_date": "2025-02-17T00:00:00.000000Z",
+        "end_date": "2025-03-01T00:00:00.000000Z",
+        "name": "Winterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SN",
+                "shortName": "SN"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 26,
+        "uuid": "b2ef277f-bb89-4e87-89f5-aeadc10567e5",
+        "start_date": "2025-02-24T00:00:00.000000Z",
+        "end_date": "2025-03-04T00:00:00.000000Z",
+        "name": "Fastnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SL",
+                "shortName": "SL"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 27,
+        "uuid": "5257b2de-813a-406f-9b8e-cd56586050f2",
+        "start_date": "2025-03-03T00:00:00.000000Z",
+        "end_date": "2025-03-07T00:00:00.000000Z",
+        "name": "Frühjahrsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 28,
+        "uuid": "ce0b0c9c-120d-4804-b5b7-38d2c0c06a4f",
+        "start_date": "2025-03-10T00:00:00.000000Z",
+        "end_date": "2025-03-21T00:00:00.000000Z",
+        "name": "Frühjahrsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 29,
+        "uuid": "2961cf1a-ac80-497b-8107-988e36e86669",
+        "start_date": "2025-04-07T00:00:00.000000Z",
+        "end_date": "2025-04-19T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 30,
+        "uuid": "a2ce0003-3616-4633-b9ed-7c8419f2ced0",
+        "start_date": "2025-04-07T00:00:00.000000Z",
+        "end_date": "2025-04-19T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-ST",
+                "shortName": "ST"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 31,
+        "uuid": "c5df7973-d0c2-4c01-8ed0-1639794bfdb3",
+        "start_date": "2025-04-07T00:00:00.000000Z",
+        "end_date": "2025-04-19T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-TH",
+                "shortName": "TH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 32,
+        "uuid": "e0c39da3-a573-4729-80e5-a11fd70bb3ff",
+        "start_date": "2025-04-07T00:00:00.000000Z",
+        "end_date": "2025-04-19T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 33,
+        "uuid": "eb9a0f8a-b9df-4df1-ab0a-cb0d06860ccc",
+        "start_date": "2025-04-07T00:00:00.000000Z",
+        "end_date": "2025-04-21T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HE",
+                "shortName": "HE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 34,
+        "uuid": "dc5f7764-bbd1-4b8b-b5c1-5ae64870dbbd",
+        "start_date": "2025-04-11T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SH",
+                "shortName": "SH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 35,
+        "uuid": "03cc22f2-1730-4ea4-b2dc-90d8d0f41e62",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 36,
+        "uuid": "087fd5a0-020f-4a91-b6b9-3d98d8831f8a",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-26T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BW",
+                "shortName": "BW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 37,
+        "uuid": "530691fb-6fa2-48cb-9030-cba93b1cafd8",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-23T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 38,
+        "uuid": "567137cb-8b29-46ba-8b2b-a4837a7b2d53",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-RP",
+                "shortName": "RP"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 39,
+        "uuid": "7309a1e0-c65b-4f86-9ed8-60a5ff38d649",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 40,
+        "uuid": "90d59863-cc2d-4739-81da-2752956a5433",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 41,
+        "uuid": "c45b7237-ad6d-40ce-ba16-735541b1be82",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-26T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NW",
+                "shortName": "NW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 42,
+        "uuid": "e870f6ee-e5f2-4e7f-a4c3-529ea8ce01d8",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SL",
+                "shortName": "SL"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 43,
+        "uuid": "e9883de1-3213-4288-bf53-a526ebcdb4c2",
+        "start_date": "2025-04-14T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 44,
+        "uuid": "052218d9-6ba0-4e7a-ad44-28e4bb96fd66",
+        "start_date": "2025-04-18T00:00:00.000000Z",
+        "end_date": "2025-04-25T00:00:00.000000Z",
+        "name": "Osterferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SN",
+                "shortName": "SN"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 45,
+        "uuid": "a7027019-3984-4144-b869-70320829dbb9",
+        "start_date": "2025-04-30T00:00:00.000000Z",
+        "end_date": "2025-05-02T00:00:00.000000Z",
+        "name": "Kirchentag und Tag nach dem 1. Mai",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 46,
+        "uuid": "a8277b25-f715-4692-8562-614590dc1daf",
+        "start_date": "2025-04-30T00:00:00.000000Z",
+        "end_date": "2025-04-30T00:00:00.000000Z",
+        "name": "Kirchentag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 47,
+        "uuid": "59f8b3d7-516b-4b12-b436-05706fbde63e",
+        "start_date": "2025-05-02T00:00:00.000000Z",
+        "end_date": "2025-05-02T00:00:00.000000Z",
+        "name": "Tag nach dem 1. Mai",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 48,
+        "uuid": "7456750f-7489-4e61-995e-d3e747b95516",
+        "start_date": "2025-05-02T00:00:00.000000Z",
+        "end_date": "2025-05-02T00:00:00.000000Z",
+        "name": "Variabler Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 49,
+        "uuid": "aa70a7ff-f812-4272-83e3-04319ef08ef7",
+        "start_date": "2025-05-02T00:00:00.000000Z",
+        "end_date": "2025-05-02T00:00:00.000000Z",
+        "name": "Unterrichtsfreier Tag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 50,
+        "uuid": "bfc6a669-1ea8-48d1-a6b8-da33033c1f6f",
+        "start_date": "2025-05-02T00:00:00.000000Z",
+        "end_date": "2025-05-02T00:00:00.000000Z",
+        "name": "Zusätzlicher Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 51,
+        "uuid": "f970af1d-e3a2-4aeb-a601-7bb255607853",
+        "start_date": "2025-05-02T00:00:00.000000Z",
+        "end_date": "2025-05-02T00:00:00.000000Z",
+        "name": "Brückentag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 52,
+        "uuid": "97cb510d-bd74-4af0-a027-63c5eaebbf37",
+        "start_date": "2025-05-26T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 53,
+        "uuid": "22d1fa1e-73f1-4865-9e41-216b826feaa0",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Himmelfahrt",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SH",
+                "shortName": "SH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 54,
+        "uuid": "249f50c3-8f42-49b6-8089-f04037c97d47",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Zusätzlicher Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 55,
+        "uuid": "3d645eaf-a1d3-4b84-a98c-19e0ed7142fd",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Tag nach Himmelfahrt",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 56,
+        "uuid": "64ec141a-4385-4092-aa4f-503e9a4bd239",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Tag nach Himmelfahrt",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 57,
+        "uuid": "7558612d-2be4-4a48-8f7c-825c3a2cfca8",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Variabler Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 58,
+        "uuid": "7d2e2e83-010d-4407-b891-1c542c72ca37",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Zusätzlicher Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 59,
+        "uuid": "8f7c8143-6403-4924-bed0-3c9aa077d5f0",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Schulfreier Tag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-TH",
+                "shortName": "TH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 60,
+        "uuid": "a5aa4c56-a5b2-4342-99b3-23d78827a1ad",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Unterrichtsfreier Tag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SN",
+                "shortName": "SN"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 61,
+        "uuid": "b4cc3570-0206-447f-a646-361b0439bdfc",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-ST",
+                "shortName": "ST"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 62,
+        "uuid": "ed4102e9-2c2d-4119-9025-94b251ef5492",
+        "start_date": "2025-05-30T00:00:00.000000Z",
+        "end_date": "2025-05-30T00:00:00.000000Z",
+        "name": "Unterrichtsfreier Tag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 63,
+        "uuid": "0a4d39fe-d65c-4073-be16-ef0b39299d59",
+        "start_date": "2025-06-06T00:00:00.000000Z",
+        "end_date": "2025-06-10T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 64,
+        "uuid": "0b32c794-a19e-4a7b-8abd-6327342b518f",
+        "start_date": "2025-06-10T00:00:00.000000Z",
+        "end_date": "2025-06-10T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 65,
+        "uuid": "120ec756-714f-4797-8681-0f5ad693127b",
+        "start_date": "2025-06-10T00:00:00.000000Z",
+        "end_date": "2025-06-10T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 66,
+        "uuid": "589f490d-9bbb-48ef-a402-ae9af623edfa",
+        "start_date": "2025-06-10T00:00:00.000000Z",
+        "end_date": "2025-06-10T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NW",
+                "shortName": "NW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 67,
+        "uuid": "7b6e2abd-d8f6-4ec3-a2c9-326e836bba17",
+        "start_date": "2025-06-10T00:00:00.000000Z",
+        "end_date": "2025-06-20T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BW",
+                "shortName": "BW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 68,
+        "uuid": "befe1648-94e4-4b4a-a5a7-690051edd8ef",
+        "start_date": "2025-06-10T00:00:00.000000Z",
+        "end_date": "2025-06-10T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 69,
+        "uuid": "dcda193e-7508-48e5-9da7-670a36cb3b0c",
+        "start_date": "2025-06-10T00:00:00.000000Z",
+        "end_date": "2025-06-20T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 70,
+        "uuid": "de4ce3ad-0370-4580-9468-7fa6dad7bfa9",
+        "start_date": "2025-06-10T00:00:00.000000Z",
+        "end_date": "2025-06-10T00:00:00.000000Z",
+        "name": "Pfingstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 71,
+        "uuid": "2be72545-34d8-4617-a89b-505d85ec8ec4",
+        "start_date": "2025-06-28T00:00:00.000000Z",
+        "end_date": "2025-08-08T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-TH",
+                "shortName": "TH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 72,
+        "uuid": "4fdcefea-9043-4d8a-97cc-4524c9af1499",
+        "start_date": "2025-06-28T00:00:00.000000Z",
+        "end_date": "2025-08-08T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-ST",
+                "shortName": "ST"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 73,
+        "uuid": "7ab191b1-36d9-4ed1-883f-13f6bfc90e8c",
+        "start_date": "2025-06-28T00:00:00.000000Z",
+        "end_date": "2025-08-08T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SN",
+                "shortName": "SN"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 74,
+        "uuid": "e7df00a7-8a7c-4b6d-99fe-802c18caef70",
+        "start_date": "2025-07-03T00:00:00.000000Z",
+        "end_date": "2025-08-13T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 75,
+        "uuid": "ee9e602e-df6f-4556-bb6a-203832b71a2e",
+        "start_date": "2025-07-03T00:00:00.000000Z",
+        "end_date": "2025-08-13T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 76,
+        "uuid": "a2dd5cea-0783-4b70-95d2-0c70cf4fbe9c",
+        "start_date": "2025-07-07T00:00:00.000000Z",
+        "end_date": "2025-08-15T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-RP",
+                "shortName": "RP"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:29.000000Z",
+        "updated_at": "2025-05-03T09:56:29.000000Z"
+    },
+    {
+        "id": 77,
+        "uuid": "e0d24099-e6dd-4119-a7aa-3046e7c05e07",
+        "start_date": "2025-07-07T00:00:00.000000Z",
+        "end_date": "2025-08-14T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SL",
+                "shortName": "SL"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 78,
+        "uuid": "e26dccb0-b3a2-4820-9ac1-290cb4cd8bd7",
+        "start_date": "2025-07-07T00:00:00.000000Z",
+        "end_date": "2025-08-15T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HE",
+                "shortName": "HE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 79,
+        "uuid": "1c5ba5d4-58a5-4058-9b9c-79bffbc03425",
+        "start_date": "2025-07-14T00:00:00.000000Z",
+        "end_date": "2025-08-26T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NW",
+                "shortName": "NW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 80,
+        "uuid": "65079463-f48b-48a3-aaec-0135f35e12ef",
+        "start_date": "2025-07-14T00:00:00.000000Z",
+        "end_date": "2025-08-30T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 81,
+        "uuid": "2ef9e6a1-e4b2-459e-afc3-a309239048df",
+        "start_date": "2025-07-24T00:00:00.000000Z",
+        "end_date": "2025-09-06T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 82,
+        "uuid": "8a162264-6702-4ff3-a37b-dee1138c70b0",
+        "start_date": "2025-07-24T00:00:00.000000Z",
+        "end_date": "2025-09-03T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 83,
+        "uuid": "d710df7e-89b3-45dc-881a-f1c47a0d3e69",
+        "start_date": "2025-07-24T00:00:00.000000Z",
+        "end_date": "2025-09-06T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 84,
+        "uuid": "4efa8a64-e3a7-420c-ad2c-82f2fbe79215",
+        "start_date": "2025-07-28T00:00:00.000000Z",
+        "end_date": "2025-09-06T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SH",
+                "shortName": "SH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 85,
+        "uuid": "ae70b01b-3137-4456-924a-efb69b4378a3",
+        "start_date": "2025-07-28T00:00:00.000000Z",
+        "end_date": "2025-09-06T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 86,
+        "uuid": "b97e38ff-3c87-425e-9ad3-f5542562ca62",
+        "start_date": "2025-07-31T00:00:00.000000Z",
+        "end_date": "2025-09-13T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BW",
+                "shortName": "BW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 87,
+        "uuid": "bc2bd00a-e716-46c3-8a27-2538c777d9bd",
+        "start_date": "2025-08-01T00:00:00.000000Z",
+        "end_date": "2025-09-15T00:00:00.000000Z",
+        "name": "Sommerferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 88,
+        "uuid": "e8f95ca9-b9c7-4a3a-832d-e1eb68d84127",
+        "start_date": "2025-10-01T00:00:00.000000Z",
+        "end_date": "2025-10-01T00:00:00.000000Z",
+        "name": "Zusätzlicher Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 89,
+        "uuid": "233e4d42-48b3-44f9-bcb2-f96625711dc3",
+        "start_date": "2025-10-02T00:00:00.000000Z",
+        "end_date": "2025-10-02T00:00:00.000000Z",
+        "name": "Zusätzlicher Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 90,
+        "uuid": "03866510-cccc-428a-af6b-099956d6a4d7",
+        "start_date": "2025-10-06T00:00:00.000000Z",
+        "end_date": "2025-10-18T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HE",
+                "shortName": "HE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 91,
+        "uuid": "b1b5dc5d-dc4f-422d-b9fc-dfcc4325a11e",
+        "start_date": "2025-10-06T00:00:00.000000Z",
+        "end_date": "2025-10-18T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-TH",
+                "shortName": "TH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 92,
+        "uuid": "c58f6520-f298-4b7c-a8ec-153175457133",
+        "start_date": "2025-10-06T00:00:00.000000Z",
+        "end_date": "2025-10-18T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SN",
+                "shortName": "SN"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 93,
+        "uuid": "01eaa710-433a-4aec-8ef2-e4cd2774a082",
+        "start_date": "2025-10-13T00:00:00.000000Z",
+        "end_date": "2025-10-24T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-RP",
+                "shortName": "RP"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 94,
+        "uuid": "5f1d17df-cb3d-474b-93e9-8e2bc0a9ffec",
+        "start_date": "2025-10-13T00:00:00.000000Z",
+        "end_date": "2025-10-24T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SL",
+                "shortName": "SL"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 95,
+        "uuid": "7bb84841-c102-4ea0-bc53-261ff5fd0bb2",
+        "start_date": "2025-10-13T00:00:00.000000Z",
+        "end_date": "2025-10-25T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-ST",
+                "shortName": "ST"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 96,
+        "uuid": "b6e36b37-157e-4fd6-b70c-ccc2a1022853",
+        "start_date": "2025-10-13T00:00:00.000000Z",
+        "end_date": "2025-10-25T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 97,
+        "uuid": "c1767d00-1904-4c33-95a5-b7c74f0dea96",
+        "start_date": "2025-10-13T00:00:00.000000Z",
+        "end_date": "2025-10-25T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 98,
+        "uuid": "d9838244-e0bc-4c9a-9afd-63f63c5cb321",
+        "start_date": "2025-10-13T00:00:00.000000Z",
+        "end_date": "2025-10-25T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NW",
+                "shortName": "NW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 99,
+        "uuid": "27cb58e8-5cfb-40ea-90ab-3149e1455cbc",
+        "start_date": "2025-10-20T00:00:00.000000Z",
+        "end_date": "2025-11-01T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 100,
+        "uuid": "559ea68e-e562-4b71-b177-fd2884f06441",
+        "start_date": "2025-10-20T00:00:00.000000Z",
+        "end_date": "2025-10-25T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            },
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 101,
+        "uuid": "613a52df-5ad8-4179-906b-1dc3c90250b1",
+        "start_date": "2025-10-20T00:00:00.000000Z",
+        "end_date": "2025-10-30T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SH",
+                "shortName": "SH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 102,
+        "uuid": "66558e3c-97ac-4c16-86d9-89c594cd859e",
+        "start_date": "2025-10-20T00:00:00.000000Z",
+        "end_date": "2025-10-31T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 103,
+        "uuid": "4893dcaf-9c52-4eeb-8bee-5d2b24d03e60",
+        "start_date": "2025-10-21T00:00:00.000000Z",
+        "end_date": "2025-11-01T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 104,
+        "uuid": "d76f734e-68ca-4fc3-9609-d0e5395377f5",
+        "start_date": "2025-10-27T00:00:00.000000Z",
+        "end_date": "2025-10-30T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BW",
+                "shortName": "BW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 105,
+        "uuid": "867bf086-bdaa-4642-8fcf-4fd07f45ac08",
+        "start_date": "2025-11-03T00:00:00.000000Z",
+        "end_date": "2025-11-07T00:00:00.000000Z",
+        "name": "Herbstferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 106,
+        "uuid": "eaa6ecbe-07f5-4d36-8e7d-b54a6fbe85f0",
+        "start_date": "2025-11-03T00:00:00.000000Z",
+        "end_date": "2025-11-03T00:00:00.000000Z",
+        "name": "Zusätzlicher Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 107,
+        "uuid": "faff7ae6-fd00-48d7-89c6-5bb117a85ebe",
+        "start_date": "2025-11-03T00:00:00.000000Z",
+        "end_date": "2025-11-03T00:00:00.000000Z",
+        "name": "Zusätzlicher Ferientag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 108,
+        "uuid": "cb244bdc-ddc5-48b0-a6a4-675b57facc0e",
+        "start_date": "2025-11-19T00:00:00.000000Z",
+        "end_date": "2025-11-19T00:00:00.000000Z",
+        "name": "Buß- und Bettag",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 109,
+        "uuid": "a59f841b-5270-44c7-8db4-84475b3609f4",
+        "start_date": "2025-12-17T00:00:00.000000Z",
+        "end_date": "2026-01-02T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HH",
+                "shortName": "HH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 110,
+        "uuid": "2fc953e8-0194-420a-9aba-437c50faaa74",
+        "start_date": "2025-12-19T00:00:00.000000Z",
+        "end_date": "2026-01-06T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SH",
+                "shortName": "SH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 111,
+        "uuid": "18670b9c-54e8-422b-b8f9-a9973825e6a4",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-06T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NW",
+                "shortName": "NW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 112,
+        "uuid": "4331063d-02e3-40d0-aaa6-2e0cec95dcf2",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-07T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-RP",
+                "shortName": "RP"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 113,
+        "uuid": "511c6b06-758a-4935-9cbb-5e9fd674ce9f",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-05T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-NI",
+                "shortName": "NI"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 114,
+        "uuid": "572f118a-d564-41bc-bec6-384f1f9a33b7",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-05T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-MV-ABS",
+                "shortName": "MV-ABS"
+            },
+            {
+                "code": "DE-MV-BBS",
+                "shortName": "MV-BBS"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 115,
+        "uuid": "656fab65-59cd-46bb-a9a9-add18663cf9b",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-02T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SN",
+                "shortName": "SN"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 116,
+        "uuid": "6f6a93c9-4f81-4fb5-9fd3-30517413da6a",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-05T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BW",
+                "shortName": "BW"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 117,
+        "uuid": "71438ac1-40fc-4122-a3d1-52ebb3c3483a",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-02T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BB",
+                "shortName": "BB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 118,
+        "uuid": "7625e071-8456-45c2-b9dd-caedc7a2216d",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-02T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BE",
+                "shortName": "BE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 119,
+        "uuid": "8a986132-33cd-4982-a161-13f8bc04ffdd",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-02T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-SL",
+                "shortName": "SL"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 120,
+        "uuid": "bbb3ae65-8f0a-40d1-babe-f9972dc323b2",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-03T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-TH",
+                "shortName": "TH"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 121,
+        "uuid": "ce21f2fc-99ab-49ef-b98f-e18d5770b101",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-05T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-ST",
+                "shortName": "ST"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 122,
+        "uuid": "dc202cba-62a0-47eb-88b3-c4abc4f02a65",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-05T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HB",
+                "shortName": "HB"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 123,
+        "uuid": "eff7cc35-540d-4b5d-9bae-7c6410aac6f1",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-10T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-HE",
+                "shortName": "HE"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    },
+    {
+        "id": 124,
+        "uuid": "fae75443-4eb3-4720-9ba2-3dcca3553820",
+        "start_date": "2025-12-22T00:00:00.000000Z",
+        "end_date": "2026-01-05T00:00:00.000000Z",
+        "name": "Weihnachtsferien",
+        "regional_scope": "Regional",
+        "temporal_scope": "FullDay",
+        "nationwide": false,
+        "subdivisions": [
+            {
+                "code": "DE-BY",
+                "shortName": "BY"
+            }
+        ],
+        "created_at": "2025-05-03T09:56:30.000000Z",
+        "updated_at": "2025-05-03T09:56:30.000000Z"
+    }
+]
