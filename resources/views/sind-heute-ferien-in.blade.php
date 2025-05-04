@@ -3,6 +3,7 @@
     $holidayService = app(HolidayService::class);
 @endphp
 @php
+$bundeslaender = $holidayService->geBundeslandMap();
     $bundeslaender = [
         'bw' => ['name' => 'Baden-Württemberg', 'route' => 'baden-wuerttemberg'],
         'by' => ['name' => 'Bayern', 'route' => 'bayern'],

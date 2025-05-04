@@ -21,8 +21,7 @@ class HolidayService
         if ($request->has("now")) {
             try {
                 return $request->date('now');
-            }
-            catch (\Exception $e) {
+            } catch (\Exception $e) {
                 // Pff, then we just use the current date
             }
         }
@@ -56,22 +55,12 @@ class HolidayService
         // Konvertierung der Kürzel
         $bundeslandCode = $this->getBundeslandCode($bundesland);
         // Alle aktuellen Ferien abrufen und in PHP filtern
-        $currentHolidays = \App\Models\SchoolHoliday::whereDate('start_date', '<=', $today)
+        return \App\Models\SchoolHoliday::whereDate('start_date', '<=', $today)
             ->whereDate('end_date', '>=', $today)
-            ->get();
-
-        // Manuell filtern
-        foreach ($currentHolidays as $holiday) {
-            if ($holiday->nationwide) {
-                return true;
-            }
-
-            if ($this->matchesBundesland($holiday->subdivisions, $bundeslandCode)) {
-                return true;
-            }
-        }
-
-        return false;
+            ->get()
+            ->filter(function ($holiday) use ($bundeslandCode) {
+                return $holiday->nationwide || $this->matchesBundesland($holiday->subdivisions, $bundeslandCode);
+            })->isNotEmpty();
     }
 
     public function getDaysToNextHolidays($bundesland, $minDurationDays = 2)

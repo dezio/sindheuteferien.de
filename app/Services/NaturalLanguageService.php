@@ -9,40 +9,45 @@ namespace App\Services;
 
 class NaturalLanguageService
 {
+
     public function getEndingInString(
         array $endData
     )
     {
-        $prefixedName = $this->buildPrefixedName($endData['holiday_name']);
+        $holidayDisplay = $this->buildPrefixedName($endData['holiday_name']);
+        $prefixedName = $holidayDisplay['name'];
         $days = $endData['days'];
+        $endString = $holidayDisplay['plural'] ? "enden" : "endet";
 
         if ($days === 0) {
-            return sprintf("<span class='highlight'>%s</span> enden heute", $prefixedName);
+            return sprintf("<span class='highlight'>%s</span> %s heute", $prefixedName, $endString);
         }
 
         if ($days === 1) {
-            return sprintf("<span class='highlight'>%s</span> enden morgen", $prefixedName);
+            return sprintf("<span class='highlight'>%s</span> %s morgen", $prefixedName, $endString);
         }
 
-        return sprintf("<span class='highlight'>%s</span> enden in %d Tagen", $prefixedName, $days);
+        return sprintf("<span class='highlight'>%s</span> %s in %d Tagen", $prefixedName, $endString, $days);
     }
 
     public function getButNextAreStartingInString(
         array $startData
     )
     {
-        $prefixedName = $this->buildPrefixedName($startData['holiday_name'], true);
+        $holidayDisplay = $this->buildPrefixedName($startData['holiday_name']);
+        $prefixedName = $holidayDisplay['name'];
         $days = $startData['days'];
+        $endString = $holidayDisplay['plural'] ? "beginnen" : "beginnt";
 
         if ($days === 0) {
-            return sprintf("… aber <span class='highlight'>%s</span> beginnen heute", $prefixedName);
+            return sprintf("… aber <span class='highlight'>%s</span> %s heute", $prefixedName,$endString);
         }
 
         if ($days === 1) {
-            return sprintf("… aber <span class='highlight'>%s</span> beginnen morgen", $prefixedName);
+            return sprintf("… aber <span class='highlight'>%s</span> %s morgen", $prefixedName,$endString);
         }
 
-        return sprintf("… aber <span class='highlight'>%s</span> beginnen in %d Tagen", $prefixedName, $days);
+        return sprintf("… aber <span class='highlight'>%s</span> %s in %d Tagen", $prefixedName,$endString, $days);
     }
 
     /**
@@ -52,12 +57,17 @@ class NaturalLanguageService
      */
     private function buildPrefixedName($holidayName, bool $lowercase = false): mixed
     {
+        $plural = false;
         $prefixedName = $holidayName;
         $areHolidays = str_contains($holidayName, 'ferien') || str_contains($holidayName, 'tage');
         if ($areHolidays) {
             $prefixedName = ($lowercase ? "die " : "Die ") . $holidayName;
+            $plural = true;
         }
-        return $prefixedName;
+        return [
+            'name' => $prefixedName,
+            'plural' => $plural,
+        ];
     }
 
     public function multiChoice($number, array $choices) {

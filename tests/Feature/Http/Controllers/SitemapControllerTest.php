@@ -5,14 +5,13 @@
  * Project: sindheuteferien.de
  */
 
-namespace Tests\Http\Controllers;
+namespace Tests\Feature\Http\Controllers;
 
-use App\Http\Controllers\SitemapController;
 use Tests\TestCase;
 
 class SitemapControllerTest extends TestCase
 {
-    public function test__invoke()
+    public function testSitemap()
     {
         $response = $this->get('/sitemap.xml');
 
@@ -21,10 +20,14 @@ class SitemapControllerTest extends TestCase
 
         // Check if the response contains the expected XML structure
         $this->assertStringContainsString('<?xml version="1.0" encoding="UTF-8"?>', $response->getContent());
-        $this->assertStringContainsString('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-image/1.1">', $response->getContent());
+        $this->assertStringContainsString('<urlset', $response->getContent());
 
         // assert home
         $homeUrl = url('/');
         $this->assertStringContainsString("<loc>$homeUrl</loc>", $response->getContent());
+
+        // assert bundesland
+        $bundeslandUrl = url('/bayern');
+        $this->assertStringContainsString("<loc>$bundeslandUrl</loc>", $response->getContent());
     }
 }

@@ -15,4 +15,6 @@ Route::get('/sitemap.xml', \App\Http\Controllers\SitemapController::class)
     ->name('sitemap');
 
 // Achtung, diese Route muss als letzte definiert werden, da sie alle anderen Routen abfängt
-Route::get('/{route}', StateController::class)->where('route', '[a-z\-]+')->name('bundesland');
+Route::get('/{route}', StateController::class)
+    ->where('route', '[a-z\-]+')
+    ->name('bundesland');
