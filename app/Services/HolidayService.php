@@ -30,6 +30,15 @@ class HolidayService
         return now();
     }
 
+    public function geBundeslandMap(string $keyBy = "kuerzel")
+    {
+        if ($keyBy) {
+            return collect(config('holiday.states'))->keyBy($keyBy)->toArray();
+        }
+
+        return collect(config('holiday.states'))->toArray();
+    }
+
     /**
      * @param string $bundeslandSlug
      * @return string The ISO 3166-2 code for the Bundesland, fallback to $bundeslandSlug
