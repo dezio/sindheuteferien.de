@@ -3,7 +3,7 @@
         <h1>Impressum</h1>
         <p>Hier findest du die rechtlichen Informationen zu SindHeuteFerien.de</p>
     </x-slot:header>
-    <section class="strong-services-wrapper section-padding fw500" id="impressum">
+    <main>
         <div class="container">
             <h1>Impressum</h1>
             <h2>
@@ -44,5 +44,5 @@
                 Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
             </p>
         </div>
-    </section>
+    </main>
 </x-layout.primary>

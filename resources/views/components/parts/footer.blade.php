@@ -9,6 +9,6 @@
     <nav>
         <a href="{{ route('impressum') }}">Impressum</a>
         <a href="{{ route('datenschutz') }}">Datenschutz</a>
-        <a href="{{ route('github') }}">GitHub</a>
+        <a href="{{ route('github') }}" target="_blank" title="Zum Sourcecode von sindheuteferien.de">GitHub</a>
     </nav>
 </footer>
