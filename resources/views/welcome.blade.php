@@ -24,12 +24,30 @@
         'th' => ['name' => 'Thüringen', 'route' => 'thueringen']
     ];
 @endphp
-
 <x-layout.primary>
     <x-slot:header>
         <h1>Sind heute Ferien?</h1>
         <p>Hier findest du auf einen Blick, in welchen Bundesländern heute Schulferien sind.</p>
     </x-slot:header>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const links = document.querySelectorAll('.navbar a');
+            links.forEach(link => {
+                link.addEventListener('click', function (event) {
+                    event.preventDefault();
+                    const targetId = this.getAttribute('href').substring(1);
+                    const targetElement = document.getElementById(targetId);
+                    if (targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        targetElement.classList.add('highlight');
+                        setTimeout(() => {
+                            targetElement.classList.remove('highlight');
+                        }, 2000);
+                    }
+                });
+            });
+        });
+    </script>
     <nav class="navbar">
         <ul>
             @foreach($bundeslaender as $kuerzel => $land)
