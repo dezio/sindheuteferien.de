@@ -1,14 +1,11 @@
 
 # SindHeuteFerien.de
 
-Ein Projekt um schnell herauszufinden wo und wann die nächsten Ferien sind, ohne mühsam Tabellen auslesen zu müssen.
-
-
-
+Ein Projekt um schnell herauszufinden, wo und wann die nächsten Ferien sind. Ohne mühsam Tabellen auslesen zu müssen.
 
 ## Screenshot
 
-![App Screenshot](https://i.imgur.com/IBY0xt9.png)
+![App Screenshot](.github/images/sindheuteferien-home.png)
 
 ### SEO
 
@@ -16,8 +13,8 @@ Das Projekt hat zwei Missionen: Für mich soll es ein Spielplatz sein, um mit SE
 
 ### Code-Style
 
-Zugegeben, der Code ist an vielen Stellen ziemlich schlampig und einfach heruntergerattert. Vielleicht wird er in Zukunft etwas optimiert – falls sich jemand mit einem guten Auge für Codequalität findet so am besten einfach wegschauen oder eine PR erstellen. 😄
+Zugegeben, der Code ist an vielen Stellen ziemlich schlampig und einfach heruntergerattert (Stand Commit #1). Er wird aber bereits von @dezio aufgeräumt und verbessert. Wenn Du auch Lust hast, mitzuhelfen, sind wir für Pull Requests jederzeit offen.
 
-### Wie finanziert sich der spaß?
+### Wie finanziert sich der Spaß?
 
-Erstmal durch mich, auf meinen Servern von [BoxSRV.net](https://BoxSRV.net) - später ggf. mit Adsense Einblendungen.
+Erstmal durch mich, Freude am Projekt, meinen Servern von [BoxSRV.net](https://BoxSRV.net) & später ggf. mit Adsense Einblendungen.
