@@ -1,10 +1,59 @@
-name: Tests
-on: [push]
+name: Pull Request Check
+on: [pull_request]
 
 jobs:
-  phpunit:
-    name: PHPUnit
+  unit-test:
+    name: Unit testing
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: nathanheffley/laravel-phpunit-action@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Cache Composer dependencies
+        uses: actions/cache@v3
+        with:
+          path: /tmp/composer-cache
+          key: ${{ runner.os }}-${{ hashFiles('composer.lock') }}
+
+      - name: Installing dependencies
+        uses: php-actions/composer@v6
+        with:
+          php_version: 8.1
+          php_extensions: "json zip sodium pcntl bcmath"
+
+      - name: Running unit test
+        uses: php-actions/phpunit@v3
+        with:
+          version: 9.6
+          php_version: 8.1
+          php_extensions: "json zip sodium pcntl bcmath"
+          args: "-d date.timezone=Europe/Berlin"
+          memory_limit: 300M
+          configuration: phpunit.xml
+          testsuite: unittest
+
+  psalm-test:
+    name: Checking psalm
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          extensions: dom, curl, libxml, mbstring, zip, pcntl, pdo, bcmath, intl, gd, exif, iconv, imagick, json, lz4-kjdev/php-ext-lz4@0.4.3
+          coverage: none
+
+      - name: Cache composer dependencies
+        uses: actions/cache@v3
+        with:
+          path: vendor
+          key: composer-${{ hashFiles('composer.lock') }}
+
+      - name: Run composer install
+        run: composer install -n --prefer-dist
+
+      - name: Run psalm
+        run: ./vendor/bin/psalm.phar --output-format=github
