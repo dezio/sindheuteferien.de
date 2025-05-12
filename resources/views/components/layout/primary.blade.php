@@ -30,7 +30,7 @@
 </head>
 <body>
 @if(!app()->isProduction())
-    <div class="top-alert">
+    <div class="top-bar-alert">
         <strong>DEV-Modus ist aktiv</strong>
     </div>
 @endif
