@@ -30,7 +30,7 @@
 </head>
 <body>
 @if(!app()->isProduction())
-    <div class="bg-red-900 text-white text-center p-2">
+    <div class="top-alert">
         <strong>DEV-Modus ist aktiv</strong>
     </div>
 @endif

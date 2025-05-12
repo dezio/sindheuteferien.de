@@ -1,3 +1,9 @@
+:root {
+    --color-primary: #1e40af;
+    --color-green: #0c5928;
+    --color-red: #dc2626;
+}
+
 @font-face {
     font-family: 'Inter';
     src: url('fonts/inter/Inter_28pt-Regular.ttf') format('truetype');
@@ -27,8 +33,15 @@ body {
     color: #111;
 }
 
+.top-bar {
+    background-color: #a81b1b;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
 header {
-    background-color: #1e40af;
+    background-color: var(--color-primary);
     color: white;
     display: flex;
     flex-direction: column;
@@ -109,7 +122,7 @@ main {
 
 .state.highlight {
     background: #e0f7fa;
-    border: 2px solid #1e40af;
+    border: 2px solid var(--color-primary);
     transform: scale(1.05);
 }
 
@@ -127,17 +140,17 @@ main {
 }
 
 .holiday-yes {
-    color: #0c5928;
+    color: var(--color-green);
     font-weight: bold;
 }
 
 .holiday-no {
-    color: #dc2626;
+    color: var(--color-red);
     font-weight: bold;
 }
 
 .holiday-yes span.highlight {
-    color: #0c5928;
+    color: var(--color-green);
 }
 
 .holiday-no span.highlight {
@@ -183,7 +196,7 @@ footer {
 }
 
 .state a:hover {
-    color: #1e40af;
+    color: var(--color-primary);
     text-decoration: underline;
 }
 
@@ -194,7 +207,7 @@ footer {
 }
 
 .navbar {
-    background-color: #1e40af;
+    background-color: var(--color-primary);
     padding: 1rem;
     text-align: center;
 }
@@ -239,7 +252,7 @@ footer {
 .back-link {
     display: inline-block;
     margin-bottom: 1rem;
-    color: #1e40af;
+    color: var(--color-primary);
     text-decoration: none;
 }
 
