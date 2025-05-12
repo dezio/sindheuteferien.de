@@ -14,6 +14,11 @@
               content="{{Page::getKeywords()}}"/>
     @endif
     <meta name="author" content="SindHeuteFerien.de"/>
+    @if(!app()->isProduction())
+        <meta name="robots" content="noindex, nofollow"/>
+    @else
+        <meta name="robots" content="index, follow"/>
+    @endif
     <title>
         @if(Page::hasTitle())
             {!! Page::getTitle() !!} - {{ Page::getAppName() }}
@@ -24,6 +29,11 @@
     <x-parts.style/>
 </head>
 <body>
+@if(!app()->isProduction())
+    <div class="bg-red-900 text-white text-center p-2">
+        <strong>DEV-Modus ist aktiv</strong>
+    </div>
+@endif
 @if(isset($header))
     <header>
         @if(!Request::is("/"))
